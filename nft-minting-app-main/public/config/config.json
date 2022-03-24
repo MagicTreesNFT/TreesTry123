@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x10A3c4Ed0223898325C2Efb727c2287338685A7f",
+  "SCAN_LINK": "https://testnet.snowtrace.io/token/0x10a3c4ed0223898325c2efb727c2287338685a7f",
+  "NETWORK": {
+    "NAME": "Avalanche Fuji",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "Magic Trees",
+  "SYMBOL": "TREE",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://nftrade.com/account/listings_made",
+  "SHOW_BACKGROUND": true
+}
